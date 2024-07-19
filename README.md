@@ -1,7 +1,7 @@
 <br></br>
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/107678471/211498590-c54f45e4-dbd4-439d-80f1-7c157c6b1918.JPG"  width=200 />
+
 
 📩 contact : jh04187@gmail.com
   
@@ -37,15 +37,6 @@ Java 와 Spring boot 를 활용한 Wep 개발이 가능한 백엔드 개발자 �
 
 영양제를 손쉽게 받아볼 수 있는 영양제 정기구독 웹 서비스 - [Pillivery](https://github.com/codestates-seb/seb40_main_033)
 
-
-
-
- <br />
-
-## 🏄 Statistics
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vfgbvvc)](https://solved.ac/vfgbvvc/)
 
 
  </div>
