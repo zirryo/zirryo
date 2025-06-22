@@ -37,7 +37,11 @@ Java 와 Spring boot 를 활용한 Wep 개발이 가능한 백엔드 개발자 �
 
 영양제를 손쉽게 받아볼 수 있는 영양제 정기구독 웹 서비스 - [Pillivery](https://github.com/codestates-seb/seb40_main_033)
 
+<br> </br>
 
+2024.07 - 2024.12 (3인)
+
+[spoticks](https://www.spoticks.shop/)
 
  </div>
  
